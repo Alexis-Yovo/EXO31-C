@@ -1,0 +1,5 @@
+Dupont Pomme 5 2
+Durand Banane 3 1
+Martin Orange 10 3
+Dupuis Pomme 2 2
+Dubois Lait 4 1
